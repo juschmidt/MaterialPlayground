@@ -1,0 +1,21 @@
+<resources>
+  <string name="app_name">MaterialDesignOne</string>
+
+  <string name="sample_text_view">TextView</string>
+  <string name="action_settings">Settings</string>
+  <string name="sample_edit_text">EditText</string>
+  <string name="sample_checked_text_view">CheckedTextView</string>
+  <string name="sample_checkbox">CheckBox</string>
+  <string name="sample_button">Button</string>
+  <string name="sample_switch_compat">SwitchCompat</string>
+  <string name="sample_switch">Switch</string>
+  <string name="sample_toggle_button_off">ToggleButton OFF</string>
+  <string name="sample_toggle_button_on">ToggleButton ON</string>
+  <string name="sample_radio_button">RadioButton</string>
+  <string name="sample_auto_complete_text_view">AutoCompleteTextView</string>
+  <string name="sample_seekbar_text">SeekBar</string>
+  <string name="sample_progress_bar_text">ProgessBar</string>
+  <string name="sample_rating_bar_text">RatingBar</string>
+  <string name="sample_image_view_text">ImageView</string>
+  <string name="sample_image_button_text">ImageButton</string>
+</resources>
